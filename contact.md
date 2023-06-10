@@ -1,6 +1,4 @@
 ---
 title: Contact
 ---
-L'Échappée Belle est actuellement composée de 5 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
+Essentiellement en classe ou par la messagerie de l'ENT.
